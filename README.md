@@ -1,1 +1,1 @@
-I this file I have researched and studied machine learning fundamentals and technicalities that you need in order to understand and replicated simulations to learn how to develop systems for self driving cars.
+In this file is the research I carried out standalone on machine learning fundamentals and techniques that you need in order to understand and replicated simulations to learn how to develop systems for self driving cars.
